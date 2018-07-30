@@ -1,2 +1,2 @@
 # git
-this is tutoral purpose
+this is tutoral purposea 
